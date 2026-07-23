@@ -9,7 +9,7 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 
 ## What this submod does NOT do
 - Change submod dialogue. If submods are installed that refer to your Transika as female, sorry I can't fix that
-- Change his appearance (beard asset in screenshot can be found [here (part of a pack)](https://drive.google.com/drive/folders/19x0_R_k6vPFsWR1Riudo55zdV2Fqe9VQ), hair can be found [here (part of a cosplay)](https://drive.google.com/drive/folders/1xTMc3aREBw1-DSApbOnK6HfxpK-Kdkto)
+- Change his appearance
 
 ## What this submod plans to do in the future
 - Add new topics
