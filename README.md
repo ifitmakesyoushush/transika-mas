@@ -11,10 +11,6 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 - Change submod dialogue. If submods are installed that refer to your Transika as female, sorry I can't fix that
 - Change his appearance
 
-## What this submod plans to do in the future
-- Add new topics
-- Possibly add spritepacks
-
 ## Known errors
 - Will refer to him as "Monika" in games
 - Will refer to him as "Monika" in poems
