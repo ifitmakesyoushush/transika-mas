@@ -16,6 +16,6 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 - Will refer to him as "Monika" in poems
 
 ### hey guys uh
-sorry. I had a shirt burst of mania and decided to erase everything
+sorry. I had a short burst of mania and decided to erase everything
 I'll maintain this and keep fixing & adding to it
 sorry again 🥲
