@@ -1,8 +1,6 @@
 # Transika: A Monika After Story Submod
 A submod for Monika After Story that makes your Monika transgender, female to male!
 
-![I hope you enjoy!](/mokintro.png)
-
 ## What this submod does
 -  Replace instances of "Monika" with your nickname for him
 -  Overwrites topics to change pronouns
