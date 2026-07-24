@@ -5,8 +5,7 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 -  Replace instances of "Monika" with your nickname for him
 -  Overwrites topics to change pronouns
 -  Occasionally he will mention being a trans man
--  Adds new dialogue for some things to make sense (e.g. why he wears dresses)
-
+-  Adds new dialogue for some things to make sense (e.g. why he wears dresses
 ## What this submod does NOT do
 - Change submod dialogue. If submods are installed that refer to your Transika as female, sorry I can't fix that
 - Change his appearance
@@ -16,6 +15,8 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 - Will refer to him as "Monika" in poems
 
 ### hey guys uh
-sorry. I had a short burst of mania and decided to erase everything
-I'll maintain this and keep fixing & adding to it
-sorry again 🥲
+Sorry. I had a short burst of mania and decided to erase everything.
+I'll maintain this and keep fixing & adding to it, sorry again 🥲
+Good news: I made a new Reddit account.
+It's "Bullfrog2point0".
+If you want to reach out to me please do!
