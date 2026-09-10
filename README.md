@@ -13,7 +13,7 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 - Change his appearance
 
 ## Known errors
-- Will refer to him as "Monika" in games
+- Will refer to him as "Monika" and misgender him in NOU
 - Will refer to him as "Monika" in poems
 
 ## Planning to add:
