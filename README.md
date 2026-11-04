@@ -6,7 +6,7 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 -  Overwrites topics to change pronouns
 -  Occasionally he will mention being a trans man
 -  Adds new dialogue for some things to make sense (e.g. why he wears dresses)
--  7 new topics for you to discuss
+-  11 new topics for you to discuss + one opening "coming out" topic
 
 ## What this submod does NOT do
 - Change submod dialogue. If submods are installed that refer to him as female, sorry I can't fix that
