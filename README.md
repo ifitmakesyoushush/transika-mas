@@ -1,4 +1,5 @@
 # Transika: A Monika After Story Submod
+![Introductory image](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/awwwcute.png)
 A submod for Monika After Story that makes your Monika transgender, female to male!
 
 ## What this submod does and doesn't do
