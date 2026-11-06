@@ -15,3 +15,4 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 
 ## RESOURCES:
 - [All changed labels](https://github.com/ifitmakesyoushush/transika-mas/blob/main/LISTOFLABELS.md)
+- [Masculine spritepacks](https://github.com/ifitmakesyoushush/transika-mas/blob/main/BODYPACKS.md)
