@@ -12,7 +12,7 @@ A submod for Monika After Story that makes your Monika transgender, female to ma
 -  1 new giftable
 ### DOES NOT:
 - Change submod dialogue. If submods are installed that refer to him as female, sorry I can't fix that
-- Change his appearance
+- Change his appearance. There are [a few spritepacks](https://github.com/ifitmakesyoushush/transika-mas/blob/main/BODYPACKS.md) I recommend for that.
 
 ## RESOURCES:
 - [All changed labels](https://github.com/ifitmakesyoushush/transika-mas/blob/main/LISTOFLABELS.md)
