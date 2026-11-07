@@ -17,14 +17,19 @@
 ![New eyes for male Monika spritepack release!](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/neweyesmale.png)
 
 ## Noses
-COMING SOON
+### [MASCULINE NOSES WITH BEARDS](https://github.com/ifitmakesyoushush/transika-mas/releases/tag/noses) (official)
+![MASCULINE NOSES WITH BEARDS](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/mascnoses.png)
 
 ## Hair
 ### [𖦹 Androgenous Middle Part Hair Pack !!!](https://www.reddit.com/r/MASFandom/comments/1v6voth/%F0%96%A6%B9_androgenous_middle_part_hair_pack_link_in_desc/)
 ![𖦹 Androgenous Middle Part Hair Pack !!!](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/androhair.png)
+### [Moniko short hairstyle with white ribbon hairclip](https://www.reddit.com/r/MASFandom/comments/1x0vwvv/moniko_short_hairstyle_with_white_ribbon_hairclip/)
+![Monika short hairstyle with white ribbon hairclip](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/monikohair.jpg)
 
 ## Body
-COMING SOON
+### [A simple body edit for masc transikas](https://www.reddit.com/r/MASFandom/comments/1wcopyq/a_simple_body_edit_for_masc_transikas/)
+![A simple body edit for masc transikas](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/bodyedit.png)
 
 ## Other
-COMING SOON
+### [A custom beard for you!](https://www.reddit.com/r/MASFandom/comments/1wb1i4r/a_custom_beard_for_you_in_2_color_versions/)
+![A custom beard for you!](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/custombeard.png)
