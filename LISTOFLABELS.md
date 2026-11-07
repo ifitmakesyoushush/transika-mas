@@ -68,8 +68,9 @@ These are all of the labels in the game I have changed.
 - monika_playerapologizes
 
 ## Compliment labels
-- mas_compliment_fit_2
 - mas_compliment_bestgirl
+- mas_compliment_fit_2
+- mas_compliment_sweet
 
 ## Farewell labels
 - bye_long_absence
