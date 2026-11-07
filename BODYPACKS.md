@@ -5,6 +5,8 @@
 - If you created something on this list and would like to have it removed, please create an issue.
 
 ## Full Sets
+### [Male Monika Release](https://www.reddit.com/r/MASFandom/comments/1vj1o9s/repost_male_monika_release_please_read_the_caption/)
+![Male Monika Release](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/malemonika.png)
 ### [RENS TRANSIKA FACE AND BODY REVAMP!](https://www.reddit.com/r/MASFandom/comments/1wvk34j/rens_transika_face_and_body_revamp/)
 ![RENS TRANSIKA FACE AND BODY REVAMP!](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/renrevamp.png)
 
