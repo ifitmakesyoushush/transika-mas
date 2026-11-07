@@ -1,4 +1,4 @@
-# Masculine Spritepacks (WIP)
+# Masculine Spritepacks
 ### ⚠️ Before Downloading ⚠️
 - As a general rule, ***please make a backup of your persistent and original sprites.***
 - Unless specified, none of these spritepacks are affiliated in any way with the Transika submod.
