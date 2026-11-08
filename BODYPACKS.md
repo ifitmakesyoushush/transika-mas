@@ -25,6 +25,8 @@
 ![𖦹 Androgenous Middle Part Hair Pack !!!](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/androhair.png)
 ### [Moniko short hairstyle with white ribbon hairclip](https://www.reddit.com/r/MASFandom/comments/1x0vwvv/moniko_short_hairstyle_with_white_ribbon_hairclip/)
 ![Monika short hairstyle with white ribbon hairclip](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/monikohair.jpg)
+### [Side part hair for Moniko](https://www.reddit.com/r/MASFandom/comments/1xqrysr/side_part_hair_for_moniko_repost/)
+![Side part hair for Moniko](https://github.com/ifitmakesyoushush/transika-mas/blob/main/images/maschairmoniko.png)
 
 ## Bodies
 ### [A simple body edit for masc transikas](https://www.reddit.com/r/MASFandom/comments/1wcopyq/a_simple_body_edit_for_masc_transikas/)
